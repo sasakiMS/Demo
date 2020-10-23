@@ -2,7 +2,7 @@
     "name": "Demo",
     "short_name": "Demo",
     "description": "Demo",
-    "start_url": "https://www.it-prod.co.jp/demo/demo.html",
+    "start_url": "https://sasakims.github.io/Demo/demo.html",
     "display": "standalone",
     "icons": [
         {
